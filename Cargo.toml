@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["airtoxin <airtoxin@icloud.com>"]
 
 [dependencies]
+gif = "0.10.1"
